@@ -1,6 +1,5 @@
 package ru.olegd.moviesearch.data
 
-import android.net.Uri
 import ru.olegd.moviesearch.R
 import ru.olegd.moviesearch.model.Film
 
