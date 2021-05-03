@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Movie Search</string>
+    <string name="details">Детали</string>
+    <string name="send_message_to_friend">Пригласить друга</string>
 </resources>
